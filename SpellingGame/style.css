@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "arbuckle-black",     sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-family: "fira-code", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+canvas {
+  display: block;
+}
